@@ -1564,3 +1564,15 @@
 .fa-bomb:before {
   content: "\f1e2";
 }
+@font-face {
+    font-family: 'BMI';
+    src: url('../fonts/bmifont-webfont.eot');
+    src: url('../fonts/bmifont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bmifont-webfont.woff2') format('woff2'),
+         url('../fonts/bmifont-webfont.woff') format('woff'),
+         url('../fonts/bmifont-webfont.ttf') format('truetype'),
+         url('../fonts/bmifont-webfont.svg#iran-sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
